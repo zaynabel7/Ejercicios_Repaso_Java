@@ -1,6 +1,6 @@
 package ejercicios;
 
-public class Ej310 {
+public class Ej316corregido {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
